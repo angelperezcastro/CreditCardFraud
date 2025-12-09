@@ -49,3 +49,9 @@ The dataset must be downloaded manually due to Kaggle licensing restrictions.
 
 The dataset is included in this repository. It's been tracked and uploaded with **Git LFS**.
 
+---
+
+## ▶️ Presentation
+
+Link to the presentation: https://www.canva.com/design/DAG7CavY3Ds/yeKuUhjy_lERcFMVAUEp-Q/view?utm_content=DAG7CavY3Ds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h528e237912
+
